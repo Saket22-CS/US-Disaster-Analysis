@@ -485,7 +485,7 @@ jupyter>=1.0.0
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/US-Disaster-Analysis.git
+git clone https://github.com/Saket22-CS/US-Disaster-Analysis.git
 cd US-Disaster-Analysis
 
 # 2. Create virtual environment (recommended)
@@ -499,7 +499,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 # 5. Or run the dashboard
-streamlit run dashboard_app.py
+streamlit run app.py
 ```
 
 ### Running Individual Milestones
